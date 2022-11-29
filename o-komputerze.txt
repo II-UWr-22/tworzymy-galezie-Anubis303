@@ -1,1 +1,51 @@
 Linux bartosz-VirtualBox 5.15.0-52-generic #58-Ubuntu SMP Thu Oct 13 08:03:55 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+MemTotal:       11388460 kB
+MemFree:         2215716 kB
+MemAvailable:    8844204 kB
+Buffers:           33328 kB
+Cached:          6557864 kB
+SwapCached:            0 kB
+Active:          3512484 kB
+Inactive:        4936692 kB
+Active(anon):       3920 kB
+Inactive(anon):  1956948 kB
+Active(file):    3508564 kB
+Inactive(file):  2979744 kB
+Unevictable:          32 kB
+Mlocked:              32 kB
+SwapTotal:       1669116 kB
+SwapFree:        1669116 kB
+Dirty:               456 kB
+Writeback:             0 kB
+AnonPages:       1858044 kB
+Mapped:           583636 kB
+Shmem:            102884 kB
+KReclaimable:     456084 kB
+Slab:             568644 kB
+SReclaimable:     456084 kB
+SUnreclaim:       112560 kB
+KernelStack:       12688 kB
+PageTables:        29704 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     7363344 kB
+Committed_AS:    7328256 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       43680 kB
+VmallocChunk:          0 kB
+Percpu:             4896 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      307136 kB
+DirectMap2M:    11395072 kB
